@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "duckland:item/duck-feather"
+    "layer0": "duckland:item/chia-seeds"
   }
 }

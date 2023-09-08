@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/crop",
   "textures": {
-    "crop": "duckland:block/chia_stage0"
+    "crop": "duckland:block/chia_stage3"
   }
 }

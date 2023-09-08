@@ -1,2 +1,4 @@
-package com.barnakrum.duckland.entity;public class ModEntities {
+package com.barnakrum.duckland.entity;
+
+public class ModEntities {
 }
